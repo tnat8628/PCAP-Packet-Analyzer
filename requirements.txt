@@ -1,0 +1,6 @@
+crewai==0.120.1
+python-dotenv
+scapy
+langchain-openai
+openai
+litellm
