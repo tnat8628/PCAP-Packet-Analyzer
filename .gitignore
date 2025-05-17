@@ -31,3 +31,8 @@ Thumbs.db
 # CrewAI specific logs/caches if any (check CrewAI docs if needed)
 # .crewai_cache/
 # .crewai_logs/
+
+basic_pcap_analyzer.py
+basic_reader.py
+basic_analyzer.py
+
